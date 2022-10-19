@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/DesignTemplateReact/static/css/main.4867ca6f.css",
+    "main.js": "/DesignTemplateReact/static/js/main.7ad01c6d.js",
+    "static/media/woman.jpg": "/DesignTemplateReact/static/media/woman.a0dfbea16f6067e164f7.jpg",
+    "static/media/hand.jpg": "/DesignTemplateReact/static/media/hand.04e291a937f7a7a16079.jpg",
+    "static/media/phone.jpg": "/DesignTemplateReact/static/media/phone.04e291a937f7a7a16079.jpg",
+    "static/media/choice.jpg": "/DesignTemplateReact/static/media/choice.878af482b621fdc28ca1.jpg",
+    "static/media/think.jpg": "/DesignTemplateReact/static/media/think.898d7b4f82a9aabaa85b.jpg",
+    "static/media/rocket.jpg": "/DesignTemplateReact/static/media/rocket.9919f9b8b5652dc1aefd.jpg",
+    "static/media/water.jpg": "/DesignTemplateReact/static/media/water.46cff0df6f8cd3a75d2d.jpg",
+    "static/media/nft.jpg": "/DesignTemplateReact/static/media/nft.d5a122bac2bbb538c9c0.jpg",
+    "static/media/purple.jpg": "/DesignTemplateReact/static/media/purple.af867ab21376b1f831ee.jpg",
+    "static/media/four1.jpg": "/DesignTemplateReact/static/media/four1.c84305aaf7060403a9ee.jpg",
+    "static/media/mockup.jpg": "/DesignTemplateReact/static/media/mockup.9c2b0789f6ee2c65f015.jpg",
+    "static/media/four6.jpg": "/DesignTemplateReact/static/media/four6.e53928c36da214394524.jpg",
+    "static/media/four5.jpg": "/DesignTemplateReact/static/media/four5.312ff2b8fd62555d1e98.jpg",
+    "static/media/four2.jpg": "/DesignTemplateReact/static/media/four2.324512017696841fd6fd.jpg",
+    "static/media/four4.jpg": "/DesignTemplateReact/static/media/four4.02ae138e9630572f507e.jpg",
+    "static/media/blackphone.jpg": "/DesignTemplateReact/static/media/blackphone.8474f147a7767a5dd3d6.jpg",
+    "static/media/four3.jpg": "/DesignTemplateReact/static/media/four3.b12e93182faa92cc00b0.jpg",
+    "static/media/Снимок3.PNG": "/DesignTemplateReact/static/media/Снимок3.cdfeb0ea99b0b4e6ce79.PNG",
+    "static/media/Снимок2.PNG": "/DesignTemplateReact/static/media/Снимок2.dcc0f0e06f18f50a999c.PNG",
+    "static/media/Снимок.PNG": "/DesignTemplateReact/static/media/Снимок.d6a10147e1c2558e157c.PNG",
+    "static/media/Снимок5.PNG": "/DesignTemplateReact/static/media/Снимок5.595846f29279840883df.PNG",
+    "static/media/Снимок6.PNG": "/DesignTemplateReact/static/media/Снимок6.864843def224e67de887.PNG",
+    "static/media/Снимок4.PNG": "/DesignTemplateReact/static/media/Снимок4.23a2cfd3cbcdba802019.PNG",
+    "index.html": "/DesignTemplateReact/index.html",
+    "main.4867ca6f.css.map": "/DesignTemplateReact/static/css/main.4867ca6f.css.map",
+    "main.7ad01c6d.js.map": "/DesignTemplateReact/static/js/main.7ad01c6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4867ca6f.css",
+    "static/js/main.7ad01c6d.js"
+  ]
+}
