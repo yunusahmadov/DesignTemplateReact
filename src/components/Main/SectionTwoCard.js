@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 
 export class SectionTwoCard extends Component {
   render() {
-    const {img,li1,li2,li3,li4,brand}=this.props;
+    const {img,li1,li2,li3,li4,brand,dataaos,dataaosduration}=this.props;
     return (
-      <div className="section2-card">
+      <div className="section2-card" data-aos={dataaos} data-aos-duration={dataaosduration}>
            <div>
            <img src={img}/>
            </div>

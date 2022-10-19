@@ -15,31 +15,45 @@ export class SectionFour extends Component {
     return (
       <section>
         <div className="section-four">
-            <h3>{features}</h3>
-            <h4>{services}</h4>
+            <h3 data-aos="fade-left"
+     data-aos-duration="1500">{features}</h3>
+            <h4 data-aos="fade-right"
+     data-aos-duration="1500">{services}</h4>
 
             <div className="section-four-container">
                 <SectionFourCard
+               dataaos="fade-up" 
+               dataaosduration="500"
                 img={img11}
                 underimg="NO CODING"
                 /> 
                  <SectionFourCard
+                  dataaos="fade-up" 
+                  dataaosduration="1000"
                 img={img12}
                 underimg="SEO OPTIMOZATION"
                 /> 
                   <SectionFourCard
+                  dataaos="fade-up" 
+                   dataaosduration="1500"
                 img={img13}
                 underimg="CLOUD SOLUTIONS"
                 /> 
                       <SectionFourCard
+                            dataaos="fade-up" 
+                            dataaosduration="1500"
                 img={img14}
                 underimg="NO CODING"
                 /> 
                  <SectionFourCard
+                       dataaos="fade-up" 
+                       dataaosduration="1000"
                 img={img15}
                 underimg="SEO OPTIMOZATION"
                 /> 
                   <SectionFourCard
+                         dataaos="fade-up" 
+                         dataaosduration="500"
                 img={img16}
                 underimg="CLOUD SOLUTIONS"
                 /> 

@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 
 export class Card extends Component {
   render() {
- const {research,discover,img}=this.props;
+ const {research,discover,img,dataaos,dataaosduration}=this.props;
     return (
-      <div className="grid-container-card">
+      <div className="grid-container-card" data-aos={dataaos} data-aos-duration={dataaosduration}>
         <div className="icon">
           <img src={img} />
         </div>

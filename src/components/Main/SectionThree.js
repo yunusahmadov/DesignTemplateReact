@@ -7,11 +7,16 @@ export class SectionThree extends Component {
     return (
       <section>
         <div className="portfolio">
-        <h2>{about}</h2>
-        <h3>{multi}</h3>
-        <img src={img10} alt="" />
-        <button>VIEW PORTFOLIO</button>
-        <div className="icons">
+        <h2 data-aos="fade-up"
+     data-aos-duration="1500">{about}</h2>
+        <h3 data-aos="fade-up"
+     data-aos-duration="2000">{multi}</h3>
+        <img data-aos="fade-up"
+     data-aos-duration="2000" src={img10} alt="" />
+        <button data-aos="fade-up"
+     data-aos-duration="2000">VIEW PORTFOLIO</button>
+        <div className="icons" data-aos="fade-up"
+     data-aos-duration="3000">
         <i class="fa-brands fa-facebook-f"></i>
         <i class="fa-brands fa-twitter"></i>
         <i class="fa-brands fa-instagram"></i>
