@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DesignTemplateReact/static/css/main.4867ca6f.css",
-    "main.js": "/DesignTemplateReact/static/js/main.7ad01c6d.js",
+    "main.css": "/DesignTemplateReact/static/css/main.1065d324.css",
+    "main.js": "/DesignTemplateReact/static/js/main.659f3d2a.js",
     "static/media/woman.jpg": "/DesignTemplateReact/static/media/woman.a0dfbea16f6067e164f7.jpg",
     "static/media/hand.jpg": "/DesignTemplateReact/static/media/hand.04e291a937f7a7a16079.jpg",
     "static/media/phone.jpg": "/DesignTemplateReact/static/media/phone.04e291a937f7a7a16079.jpg",
@@ -26,11 +26,11 @@
     "static/media/Снимок6.PNG": "/DesignTemplateReact/static/media/Снимок6.864843def224e67de887.PNG",
     "static/media/Снимок4.PNG": "/DesignTemplateReact/static/media/Снимок4.23a2cfd3cbcdba802019.PNG",
     "index.html": "/DesignTemplateReact/index.html",
-    "main.4867ca6f.css.map": "/DesignTemplateReact/static/css/main.4867ca6f.css.map",
-    "main.7ad01c6d.js.map": "/DesignTemplateReact/static/js/main.7ad01c6d.js.map"
+    "main.1065d324.css.map": "/DesignTemplateReact/static/css/main.1065d324.css.map",
+    "main.659f3d2a.js.map": "/DesignTemplateReact/static/js/main.659f3d2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4867ca6f.css",
-    "static/js/main.7ad01c6d.js"
+    "static/css/main.1065d324.css",
+    "static/js/main.659f3d2a.js"
   ]
 }
